@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **umeshsinghmehta4@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/umesh-singh-mehta-93819a194/"></a>Umesh Singh</h3>
 <p align="left">
 </p>
 
