@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umeshsingh2000&label=Profile%20views&color=0e75b6&style=flat" alt="umeshsingh2000" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NodeJs**
 
 - 📫 How to reach me **umeshsinghmehta4@gmail.com**
 - 🎓 Portfolio **https://my-portfolio-nine-nu-59.vercel.app/**
