@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **umeshsinghmehta4@gmail.com**
-- 🎓 Portfolio **https://personal-portfolio-hfxr.vercel.app/projects**
+- 🎓 Portfolio **https://personal-portfolio-hfxr.vercel.app/**
 
 <h3 align="left">Connect with me: https://www.linkedin.com/in/umesh-singh-mehta-93819a194/</h3>
 <p align="left">
