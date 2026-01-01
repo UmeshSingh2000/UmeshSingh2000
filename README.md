@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm UMESH SINGH MEHTA</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">Iam a FullStack web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umeshsingh2000&label=Profile%20views&color=0e75b6&style=flat" alt="umeshsingh2000" /> </p>
 
-- 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **umeshsinghmehta4@gmail.com**
 - 🎓 Portfolio **https://www.umeshsingh.tech/**
