@@ -5,7 +5,7 @@
 
 
 - 📫 How to reach me **umeshsinghmehta4@gmail.com**
-- 🎓 Portfolio **https://www.umeshsingh.tech/**
+- 🎓 Portfolio **https://portfolio-khaki-beta-26.vercel.app/**
 
 <h3 align="left">Connect with me: https://www.linkedin.com/in/umesh-singh-mehta-93819a194/</h3>
 <p align="left">
